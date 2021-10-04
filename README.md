@@ -3,4 +3,4 @@ Data Analysis For Hospitals is a project I enrolled in JetBrains Academy to comp
 
 In this project, I learned using some python libraries such as pandas, numpy, seaborn and matplotlib. 
 
-The project was divided into 5 stages. In each stage, many topics were presented with practice exercises to help the learning finishing his project. 
+The project was divided into 5 stages. In each stage, many topics were presented with practice exercises to help learners finishing the project. 
